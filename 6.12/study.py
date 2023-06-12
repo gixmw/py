@@ -35,4 +35,4 @@ def even_odd(dec):
 number = int(input("정수를 입력하세요 : "))
 even_odd(number)
 number2 = int(input("정수를 입력하세요 : "))
-even_odd(number)
+even_odd(num)
